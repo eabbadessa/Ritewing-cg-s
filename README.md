@@ -1,6 +1,6 @@
 # Ritewing-cg-s
 These are all the Ritewing cg's I have available.
-
+Ritewings can be bought here: http://ritewingrc.com/
 
 RiteWing Unofficial Starting CG Tracker
 
