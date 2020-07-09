@@ -6,35 +6,37 @@ RiteWing Unofficial Starting CG Tracker
 
 **Measured from tip of the "original" nose (apex) **
 
-Lil Bastard     5" 
+Lil Bastard  5" 
 
-MiniZ 30"       5 1/2" 22xx miniquad motors, 1300-1800mah 4s
+MiniZ 30"  5 1/2" 22xx miniquad motors, 1300-1800mah 4s
 
-HC24		4 3/4"
+HC24  4 3/4"
 
-HC31 		5 3/4" 
+HC31  5 3/4" 
 
-HC44		7 3/4" 2814 1700-2200kv, 3300mah 4s
+HC44. 7 3/4" 2814 1700-2200kv, 3300mah 4s
 
-Spec37		6 3/4" 
+Spec37  6 3/4" 
 
-HC38		7 1/2"
+HC38  7 1/2"
 
 HC48 Vollocity	8 1/4" 2826 1470kv, 2x 3300 3s in series
 
-Demon34 	6 1/2"
+Demon34  6 1/2"
 
-Demon40		7 3/4 to 7 1/2"
+Demon40  7 3/4 to 7 1/2"
 
-Z2.5		10 to 10 1/2"
+Z2.5  10 to 10 1/2"
 
-Z2.5 60		10 1/2 to 11"
+Z2.5 60  10 1/2 to 11"
 
-Z63		11 to 11 1/4"
+Z63  11 to 11 1/4"
 
-Recon           9 to 9.25 2820 1470kv, 2x 5200mah 4s in parrell
+Recon  9 to 9.25 2820 1470kv, 2x 5200mah 4s in parrell
 
-Zcon            9 to 9.25
+Zcon  9 to 9.25
+
+Zxl  12" from tip of nose
 
 Drak 60"	1 1/4" to 1 1/2" in front of the main spar cap. 3525 650kv, 8000-10000 6s
 
