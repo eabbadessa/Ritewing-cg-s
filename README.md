@@ -17,13 +17,17 @@ HC38		7 1/2"
 HC48 Vollocity	8 1/4" 2826 1470kv, 2x 3300 3s in series
 
 Demon34 	6 1/2"
+
 Demon40		7 3/4 to 7 1/2"
 
 Z2.5		10 to 10 1/2"
+
 Z2.5 60		10 1/2 to 11"
+
 Z63		11 to 11 1/4"
 
 Recon           9 to 9.25 2820 1470kv, 2x 5200mah 4s in parrell
+
 Zcon            9 to 9.25
 
 Drak 60"	1 1/4" to 1 1/2" in front of the main spar cap. 3525 650kv, 8000-10000 6s
