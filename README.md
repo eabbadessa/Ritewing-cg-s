@@ -18,6 +18,8 @@ HC44. 7 3/4" 2814 1700-2200kv, 3300mah 4s
 
 Spec37  6 3/4" 
 
+Sportster 7 1/4"
+
 HC38  7 1/2"
 
 HC48 Vollocity	8 1/4" 2826 1470kv, 2x 3300 3s in series
