@@ -54,6 +54,8 @@ MiniDrak 40" boomer 1/4 in front of spar cap.  2814 1700-1800kv, 5200mah 4s or 5
 
 MiniDrakExt 55"	7/8" to 1" in front of the forward spar cap
 
+MiniDrakExt 55" Boomer 5/8 in front of spar cap
+
 Nano Drak molded 28" 17mm in front of spar cap but some say 12mm is better. 
 
 Nano Drak molded 28" Boomer 2mm in front of spar cap
